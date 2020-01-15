@@ -11,5 +11,7 @@ Implementing following commands:
 7) Updates the attributes for the appointment specified by id using the priovided information
 # setup
 Implementing the REST-FULL API in Node.js
+
 Testing the code on postman application
+
 Implementing the html forms that interface the given API
